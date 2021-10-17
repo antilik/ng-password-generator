@@ -2,6 +2,10 @@
   "name": "ng-password-generator",
   "version": "1.0.0",
   "author": "Anton Degnera <anton.degnera@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "github.com/antilik"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
